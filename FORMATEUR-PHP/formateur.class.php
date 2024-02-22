@@ -19,7 +19,7 @@ class Formateur extends Personne{
         }
         else
         {
-            echo "l'attribut < ".$attr." > n'existe pas.";
+            echo  ".$attr."  n'existe pas.";
         }
     }
 
